@@ -1,0 +1,49 @@
+---
+title: "my_manuscript_headlines"
+author: "Pierre Rogy"
+date: "2024-09-10"
+output: pdf_document
+---
+
+# Install tinytex and rmarkdown
+
+# Getting started with markdown
+
+# YAML header
+
+## Comments
+
+## Source code vs. visual editor
+
+## Help menu
+
+## Knit document
+
+## Code chunks, with options
+
+# Figures
+
+## Embedded figures with code chunks.
+
+## Figures from file
+
+# Tables
+
+# Equations
+
+# References
+
+## General
+
+::: {#refs}
+:::
+
+## The `grateful` package
+
+### Make bib file
+
+### Have all refs in single paragraph
+
+# Manuscript templates
+
+# `trackdown`
